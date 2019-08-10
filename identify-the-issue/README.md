@@ -1,0 +1,2 @@
+# Identify the Issue
+This stage of the workshop will focus on determining what concerns you want to bring up in your difficult conversations.  In this folder, there is a list of common workplace concerns.  This list can servce as sparks as you reflect on concerns you want to bring up in your difficult conversations.  These concerns are crowd sourced from many people's personal experiences.  Feel free to send us a PR with more workplace concerns you want to add to our list! 
